@@ -1,3 +1,3 @@
-# Big_data
+# Big_data: cours for databricks and azure 
 
-#### First lekture 
+#### First lecture 
